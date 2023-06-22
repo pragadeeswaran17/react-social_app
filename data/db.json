@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "my 1st post",
+      "datatime": "june 01, 2021 11:17:36 am",
+      "body": "I attend a defi blockchain event"
+    },
+    {
+      "id": 2,
+      "title": "my 2nd ",
+      "dataTime": "June, 19, 2023 8:54:26 PM",
+      "body": "i'm praga"
+    },
+    {
+      "id": 3,
+      "title": "my 3rd ",
+      "dataTime": "June, 22, 2023 2:42:50 PM",
+      "body": "i'm praga from india"
+    },
+    {
+      "id": 4,
+      "title": "my post",
+      "datatime": "June, 22, 2023 3:51:53 PM",
+      "body": "hello"
+    }
+  ]
+}
